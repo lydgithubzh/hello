@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">准时</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">统计</string>
+    <string name="title_notifications">我的</string>
+    <string name="zhunshi">关于"准时"</string>
+</resources>
